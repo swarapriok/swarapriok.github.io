@@ -1,0 +1,21 @@
+body{margin:0px auto;padding:0px;max-width:960px;background-color:#E7E7E7;color:#565656;}
+a:link{text-decoration:none;color:#565656;}
+a:visit{text-decoration:none;color:#d81b60;}
+header{background-color:#d44b38;padding-bottom:5px;padding-top:10px;color:#ffffff;}
+h1, h2, .dskrps, footer{text-align:center;}
+.videos{display:block;margin:15px;padding:10px;background:#FFF;border:1px solid #ddd;}
+.vidgmbr{text-align:center;}
+.lanjutin{display:block;margin:15px;padding:10px;background:#0f9d58;border:1px solid #ddd;text-align:center;color:#ffffff;}
+div.video{display:block;margin:15px;padding:10px;background:#FFF;border:1px solid #ddd;}
+div.video iframe{width:480px;height:360px;}
+.vidfrm{text-align:center;}
+.vidtl{background-color:#fcf3b3;margin-top:15px;padding:5px 5%;text-align:left;}
+.vidskrps{background-color:#f6f9ff;padding: 5px 5%;color: #323a45;text-align:left;}
+.viddsclmr{background-color:#ffeeb6;margin-bottom:10px;padding:5px 5%;text-align:left;font-size:60%;}
+.menu{padding:0;margin:0;}
+.menu ul{list-style:none;display:block;margin:15px;padding:10px;background:#FFF;border:1px solid #ddd;}
+.menu ul li{margin:0;padding:0;border:0;display:inline;}
+.menu ul li a{margin:0;padding:0px 5px;text-decoration:none;}
+.menu ul li a:hover{color:#da7a00;}
+.menu ul li a.active{color:#da7a00;} 
+#uptop{opacity:1;height:auto;bottom:0;position:fixed;right:15px;bottom:10px;z-index:999;transition:all 1s}#uptop a:hover{color:#444;text-decoration:none}.up_arrow{display:block;margin:auto;margin-top:-5px;font-size:20px;position:relative;width:0;height:0}.up_arrow:before{content:'';display:block;position:absolute;border:14px solid rgba(103,103,103,0.42);border-left:22px solid transparent;border-right:23px solid transparent;border-top:0;top:-14px;left:-23px}#uptop a{color:#000;display:block;font-weight:700;line-height:1em;padding:5px 5px 10px;text-align:center;background:rgba(103,103,103,0.42);-webkit-box-shadow:0 1px 10px rgba(0,0,0,0.05);-moz-box-shadow:0 1px 10px rgba(0,0,0,0.05);box-shadow:0 1px 10px rgba(0,0,0,0.05)}
